@@ -12,10 +12,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day2-LinearAlgebra/notebooks/Day2-LinearAlgebra%20-%2003%20Identity%20and%20Inverse%20Matrices/Day2-LinearAlgebra%20-%20Demo%203%20Identity%20and%20Inverse%20Matrices.ipynb)
 
-4. [Day2-LinearAlgebra - Demo4 Linear Dependence and Span.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day2-LinearAlgebra/notebooks/Day2-LinearAlgebra%20-%2004%20Linear%20Dependence%20and%20Span/Day2-LinearAlgebra%20-%20Demo4%20Linear%20Dependence%20and%20Span.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day2-LinearAlgebra/notebooks/Day2-LinearAlgebra%20-%2004%20Linear%20Dependence%20and%20Span/Day2-LinearAlgebra%20-%20Demo4%20Linear%20Dependence%20and%20Span.ipynb)
-
 
 5. [Day2-LinearAlgebra - Demo5 Norms.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day2-LinearAlgebra/notebooks/Day2-LinearAlgebra%20-%2005%20Norms/Day2-LinearAlgebra%20-%20Demo5%20Norms.ipynb)
 
