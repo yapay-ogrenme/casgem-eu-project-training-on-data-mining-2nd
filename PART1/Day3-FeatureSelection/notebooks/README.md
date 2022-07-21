@@ -33,15 +33,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering_HousePrices_Exercises_1.ipynb)
 
-- Exercises - HousePrices (Solution)
 
-[Feature Engineering_HousePrices_Exercises_1(Solution).ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering_HousePrices_Exercises_1(Solution).ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering_HousePrices_Exercises_1(Solution).ipynb)
-
-
-
-- Exercises (Advanced) - 
+- Exercises (Advanced)
 
 [Feature Engineering-titanic-advanced-feature-engineering-tutorial.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-titanic-advanced-feature-engineering-tutorial.ipynb)
 
