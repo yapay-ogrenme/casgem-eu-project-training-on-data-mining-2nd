@@ -16,9 +16,21 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification.ipynb)
 
+-  Exercises 1 (Solution)
+
+[Day1-Introduction-Exercises-1-Breast-Cancer-Classification(Solution).ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification(Solution).ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification(Solution).ipynb)
+
 
 -  Exercises 2
 
 [Day1-Introduction-Exercises-2-Car-Price-Prediction.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-2-Car-Price-Prediction.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-2-Car-Price-Prediction.ipynb)
+
+-  Exercises 2 (Solution)
+
+[Day1-Introduction-Exercises-2-Car-Price-Prediction(Solution).ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-2-Car-Price-Prediction(Solution).ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-2-Car-Price-Prediction(Solution).ipynb)

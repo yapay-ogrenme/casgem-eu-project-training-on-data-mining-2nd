@@ -4,3 +4,5 @@
 1.[Day1-Introduction](PART1/Day1-Intro/notebooks) 
 
 2.[Day2-LinearAlgebra](PART1/Day2-LinearAlgebra/notebooks)
+
+3.[Day3-FeatureSelection](PART1/Day3-FeatureSelection/notebooks)
