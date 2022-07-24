@@ -10,3 +10,5 @@
 3.[Day3-FeatureSelection](PART1/Day3-FeatureSelection/notebooks)
 
 4.[Day4-ProbabilityStatistics](PART1/Day4-ProbabilityStatistics/notebooks)
+
+5.[Day5-Linear_LogisticRegression](PART1/Day5-Linear_LogisticRegression/notebooks)
