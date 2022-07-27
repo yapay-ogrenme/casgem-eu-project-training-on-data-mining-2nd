@@ -16,3 +16,5 @@
 6.[Day6-SupportVectorMachines](PART1/Day6-SupportVectorMachines/notebooks)
 
 7.[Day7-DecisionTree](PART1/Day7-DecisionTree/notebooks)
+
+8.[Day8-UnsupervisedLearning](PART1/Day8-UnsupervisedLearning/notebooks)
