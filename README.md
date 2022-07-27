@@ -14,3 +14,5 @@
 5.[Day5-Linear_LogisticRegression](PART1/Day5-Linear_LogisticRegression/notebooks)
 
 6.[Day6-SupportVectorMachines](PART1/Day6-SupportVectorMachines/notebooks)
+
+7.[Day7-DecisionTree](PART1/Day7-DecisionTree/notebooks)
