@@ -18,3 +18,19 @@
 7.[Day7-DecisionTree](PART1/Day7-DecisionTree/notebooks)
 
 8.[Day8-UnsupervisedLearning](PART1/Day8-UnsupervisedLearning/notebooks)
+
+
+## PART2
+9.[Day9-NeuralNetworks](PART2/Day9-NeuralNetworks)
+
+10.[Day10-NeuralNetworks](PART2/Day10-NeuralNetworks)
+
+11.[Day11-DeepLearning](PART2/Day11-DeepLearning)
+
+12.[Day12-Optimization](PART2/Day12-Optimization)
+
+13.[Day13-ComputerVision](PART2/Day13-ComputerVision)
+
+14.[Day14-NaturalLanguageProcessing](PART2/Day14-NLP)
+
+15.[Day15-ReinforcementLearning](PART2/Day15-ReinforcementLearning)
