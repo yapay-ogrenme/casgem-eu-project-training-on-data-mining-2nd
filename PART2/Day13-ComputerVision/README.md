@@ -47,6 +47,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_ComputerVision_tensorflow_tutorials_6_segmentation.ipynb)
 
+Exercises
+
 7. [Day13_ComputerVision_app_7_basic_classification_fashion_mnist.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_ComputerVision_app_7_basic_classification_fashion_mnist.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_ComputerVision_app_7_basic_classification_fashion_mnist.ipynb)
