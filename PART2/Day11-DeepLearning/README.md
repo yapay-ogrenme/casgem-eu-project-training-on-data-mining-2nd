@@ -32,6 +32,13 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART2/Day11-DeepLearning/notebooks/Day11_DeepLearning_Exercises_1.ipynb)
 
+**Exercises - Solution**
+
+
+6. [Day11_DeepLearning_Exercises_1_Solution.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART2/Day11-DeepLearning/notebooks/Day11_DeepLearning_Exercises_1_Solution.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART2/Day11-DeepLearning/notebooks/Day11_DeepLearning_Exercises_1_Solution.ipynb)
+
 7. [Day11_DeepLearning_8_credit_card_fraud_detection_imbalanced_classification.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART2/Day11-DeepLearning/notebooks/Day11_DeepLearning_8_credit_card_fraud_detection_imbalanced_classification.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining-2nd/blob/main/PART2/Day11-DeepLearning/notebooks/Day11_DeepLearning_8_credit_card_fraud_detection_imbalanced_classification.ipynb)
